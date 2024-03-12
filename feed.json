@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "web buro earth",
+    "description": "",
+    "home_page_url": "https://web.buro.earth",
+    "feed_url": "https://web.buro.earth/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "web buro earth"
+    },
+    "items": [
+    ]
+}
